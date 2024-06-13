@@ -4066,6 +4066,12 @@
         <ctl name="MultiMedia2 Mixer USB_AUDIO_TX" value="1" />
     </path>
 
+    <path name="voice-rx">
+    </path>
+
+    <path name="voice-tx">
+    </path>
+
     <path name="incall_music_uplink">
         <ctl name="Incall_Music Audio Mixer MultiMedia9" value="1" />
     </path>
@@ -4562,6 +4568,11 @@
     <path name="compress-offload-playback headphones-and-bt-a2dp">
         <path name="compress-offload-playback headphones" />
         <path name="compress-offload-playback bt-a2dp" />
+    </path>
+
+    <path name="compress-offload-playback2 headphones-and-bt-a2dp">
+        <path name="compress-offload-playback2 headphones" />
+        <path name="compress-offload-playback2 bt-a2dp" />
     </path>
 
     <path name="low-latency-playback headphones-and-bt-a2dp">
