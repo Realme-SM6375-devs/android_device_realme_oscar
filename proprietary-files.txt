@@ -454,12 +454,7 @@ odm/etc/camera/gesture/tt_hand_det_v11.0.model
 odm/etc/camera/gesture/tt_hand_gesture_v11.1.model
 odm/etc/camera/gesture/tt_hand_kp_v6.0.model
 odm/etc/camera/gesture/tt_hand_lr_v3.0.model
-odm/etc/camera/license_release_fdc.lic
-odm/etc/camera/megvii/cache
-odm/etc/camera/megvii/siq_ocl_cache
-odm/etc/camera/megvii/superiq_model
 odm/etc/camera/model/DocDetectV15.xbin
-odm/etc/camera/model/license.lic
 odm/etc/camera/model_fdc.data
 odm/etc/camera/motionblur/model.data
 odm/etc/camera/neon_yuv_LUT_64.bin
@@ -633,7 +628,6 @@ odm/etc/camera/selfbokehParam.json
 odm/etc/camera/selfbokehmodel.bin
 odm/etc/camera/settings_fdc.txt
 odm/etc/camera/singleblur/doubleloss_large.model
-odm/etc/camera/singleblur/license_release.license
 odm/etc/camera/singleblur/personseg.bin
 odm/etc/camera/singleblur/preview_seg.json
 odm/etc/camera/singleblur/singlut_background.png
@@ -791,8 +785,6 @@ odm/lib64/libhta.so
 odm/lib64/libhwconfigurationutil.so
 odm/lib64/libhyperlapse.so
 odm/lib64/libimgClarityEvaluate.so
-odm/lib64/libmegface.so
-odm/lib64/libmegvii_superiq.so
 odm/lib64/libml_util.so
 odm/lib64/libmotionblur.so
 odm/lib64/libmpbase.so
