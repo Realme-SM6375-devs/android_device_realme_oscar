@@ -1,4 +1,4 @@
-# Device proprietary files - from RMX3471_14.0.0.700(EX01) build, unless pinned
+# Device proprietary files - from RMX3471_14.0.0.800(EX01) build, unless pinned
 
 # Audio ACDB
 odm/etc/acdbdata/MOS/Audio_Parameter_Version.txt
@@ -757,7 +757,6 @@ odm/lib64/libapsdarksight.so
 odm/lib64/libapsexif.so
 odm/lib64/libapsjpeg.so
 odm/lib64/libapspng.so
-odm/lib64/libapsultrahdr.so
 odm/lib64/libapsyuv.so
 odm/lib64/libarcsoft_aicolor_image.so
 odm/lib64/libarcsoft_distortion_correction.so
